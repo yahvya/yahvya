@@ -11,6 +11,6 @@
 
 ### Ce que je peux utiliser ?
 
-[C C++, PHP, JAVA, (JAVA/TYPE)SCRIPT, DART FLUTTER, VueJS ReactJS]
+[C C++, PHP, JAVA, (JAVA/TYPE)SCRIPT, DART FLUTTER, VUEJS REACTJS, python]
 
 \+ tout, *à partir du moment qu'on a de bonnes bases on peut tout découvrir / utiliser*
