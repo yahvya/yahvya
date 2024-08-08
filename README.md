@@ -5,7 +5,7 @@
 ### Profil et parcours
 
 - Comme beaucoup j'ai démarré avec le souhait de devenir développeur de jeux vidéos.
-- Avec le temps j'ai testé et appris de plus en plus de choses qui m'ont permis de me diversifier.
+- Avec le temps j'ai testé et appris de plus en plus de choses qui m'ont permis de me diversifier en touchant au logiciel, au web au mobile.
 
 [Découvrez en plus sur mon site](https://yahaya-bathily.fr/)
 
