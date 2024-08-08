@@ -15,8 +15,9 @@
 
 \+ tout, *à partir du moment qu'on a de bonnes bases on peut tout découvrir / utiliser*
 
-### Status actuel
+### Status actuel ?
 
+- A la recherche d'une alternance
 - Entrain de découvrir Rust
 - Entrain de créer une grosse suite
 - Master 2 dev web & mobile fullstack
