@@ -1,16 +1,16 @@
-## Hi there 👋
+# Salut, yahaya jeune développeur fullstack ;)
 
-<!--
-**yahvya/yahvya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Mon langage préféré est sans doute le C :)**
 
-Here are some ideas to get you started:
+### Profil et parcours
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Comme beaucoup j'ai démarré avec le souhait de devenir développeur de jeux vidéos.
+- Avec le temps j'ai testé et appris de plus en plus de choses qui m'ont permis de me diversifier.
+
+[Découvrez en plus sur mon site](https://yahaya-bathily.fr/)
+
+### Ce que je peux utiliser ?
+
+[C C++, PHP, JAVA, (JAVA/TYPE)SCRIPT, DART FLUTTER, VueJS ReactJS]
+
+\+ tout, *à partir du moment qu'on a de bonnes bases on peut tout découvrir / utiliser*
