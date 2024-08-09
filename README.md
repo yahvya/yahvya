@@ -1,4 +1,4 @@
-# Salut, yahaya jeune développeur fullstack ;)
+# Salut, yahaya développeur fullstack ;)
 
 ## **Mon langage préféré est sans doute le C :)**
 
