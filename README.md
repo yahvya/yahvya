@@ -17,7 +17,5 @@
 
 ### Status actuel ?
 
-- A la recherche d'une alternance
 - Entrain de découvrir Rust
 - Entrain de créer une grosse suite
-- Master 2 dev web & mobile fullstack
