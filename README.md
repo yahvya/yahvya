@@ -15,7 +15,7 @@
 
 \+ tout, *à partir du moment qu'on a de bonnes bases on peut tout découvrir / utiliser*
 
-### Status actuel ?
+### Statut actuel ?
 
 - Entrain de découvrir Rust
 - Entrain de créer une grosse suite
