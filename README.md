@@ -1,10 +1,13 @@
+**CHOOSE LANG**
+
 [![English](https://img.shields.io/badge/lang-English-blue)](#en) [![Français](https://img.shields.io/badge/lang-Français-red)](#fr)
 
+---
 # \#en
 
 # 👋🏽, I'm Yahaya, a full-stack web developer ;)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahvya&show_icons=true&theme=radical&locale=fr)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahvya&show_icons=true&theme=radical&locale=en)
 
 *Actually in internship for [Pote&Match](https://www.linkedin.com/company/pote-match/)*
 
@@ -33,7 +36,7 @@
 - Postman / Testfully
 - Mysql, MongoDb
 - GitHub 
-- Youtrack / GitHub projets
+- Youtrack / GitHub projects
 
 > I believe that with enough foundational knowledge and experience, you can work on any project, even without necessarily knowing the programming language, because things often repeat themselves.
 
@@ -41,12 +44,7 @@
 
 [Linkedin](https://www.linkedin.com/in/yahaya-bathily-218678253/)
 
-Voici la traduction en français :
-
 ---
-
-[![English](https://img.shields.io/badge/lang-English-blue)](#en) [![Français](https://img.shields.io/badge/lang-Français-red)](#fr)
-
 # \#fr
 
 # 👋🏽, je suis Yahaya, un développeur web full-stack ;)
