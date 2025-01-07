@@ -1,10 +1,10 @@
+[![English](https://img.shields.io/badge/lang-English-blue)](#  ) [![Français](https://img.shields.io/badge/lang-Français-red)](# )
+
 # 🖖🏽, I'm yahaya, a full-stack junior web developer ;)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahvya&show_icons=true&theme=radical&locale=fr)
 
-[![English](https://img.shields.io/badge/lang-English-blue)](#English) [![Français](https://img.shields.io/badge/lang-Français-red)](#Français)
-
-# English
+#   
 
 **My preferred programming langage is C :)**
 
@@ -28,4 +28,4 @@
 - Entrain de découvrir Rust
 - Entrain de créer une grosse suite
 
-  # Français
+  #  
