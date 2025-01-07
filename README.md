@@ -42,7 +42,7 @@
 
 ## **SOCIAL MEDIAS**
 
-[Linkedin](https://www.linkedin.com/in/yahaya-bathily-218678253/)
+[Linkedin](https://www.linkedin.com/in/yahaya-d/)
 
 ---
 # \#fr
@@ -70,7 +70,8 @@
 - Javascript et Typescript avec VueJs, ReactJs, AdonisJs, Puppeteer et JestJs
 - Dart avec Flutter
 - Python avec FastApi ...
-- Java / Kotlin avec Spring Boot, JavaFx et JUnit
+- Java / Kotlin avec Spring Boot, JavaFx et JU
+- nit
 
 ### Pour les tests
 
@@ -90,4 +91,4 @@
 
 ## **RÉSEAUX SOCIAUX**
 
-[Linkedin](https://www.linkedin.com/in/yahaya-bathily-218678253/)
+[Linkedin](https://www.linkedin.com/in/yahaya-d/)
