@@ -1,23 +1,31 @@
-# Salut, yahaya développeur fullstack ;)
+# 🖖🏽, I'm yahaya, a full-stack junior web developer ;)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahvya&show_icons=true&theme=radical&locale=fr)
 
-## **Mon langage préféré est sans doute le C :)**
+[![English](https://img.shields.io/badge/lang-English-blue)](#English) [![Français](https://img.shields.io/badge/lang-Français-red)](#Français)
 
-### Profil et parcours
+# English
 
-- Comme beaucoup j'ai démarré avec le souhait de devenir développeur de jeux vidéos.
-- Avec le temps j'ai testé et appris de plus en plus de choses qui m'ont permis de me diversifier en touchant au logiciel, au web au mobile.
+**My preferred programming langage is C :)**
 
-[Découvrez en plus sur mon site](https://yahaya-bathily.fr/)
+## Profile
 
-### Ce que je peux utiliser ?
+- Like many devs, i started by typing 'how to create a 2D game' to became a game developer
+- With time, I tested and learned many things that helped me diversify, touching software development, web, mobile, scrapping, and more..
 
-[C C++, PHP, JAVA, (JAVA/TYPE)SCRIPT, DART FLUTTER, VUEJS REACTJS, python]
+[Take a visual tour of my projects](not-available-now)
+
+## Concretely ?
+
+- C <3
+- C++
+[C, C++, PHP, JAVA, (JAVA/TYPE)SCRIPT, DART FLUTTER, VUEJS REACTJS, python]
 
 \+ tout, *à partir du moment qu'on a de bonnes bases on peut tout découvrir / utiliser*
 
-### Statut actuel ?
+## Statut actuel ?
 
 - Entrain de découvrir Rust
 - Entrain de créer une grosse suite
+
+  # Français
