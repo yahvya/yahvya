@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahvya&show_icons=true&theme=radical&locale=fr)
 
-#   
+#   U+200B
 
 **My preferred programming langage is C :)**
 
@@ -28,4 +28,4 @@
 - Entrain de découvrir Rust
 - Entrain de créer une grosse suite
 
-  #  
+#  ----------------------------------------------------------------
