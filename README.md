@@ -47,7 +47,7 @@
 ---
 # \#fr
 
-# 👋🏽, je suis Yahaya, un développeur web full-stack ;)
+# 👋🏽, Yahaya, développeur web full-stack ;)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahvya&show_icons=true&theme=radical&locale=fr)
 
