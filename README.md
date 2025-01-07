@@ -1,6 +1,6 @@
 # Salut, yahaya développeur fullstack ;)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahvya)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahvya&show_icons=true&theme=radical&locale=fr)
 
 ## **Mon langage préféré est sans doute le C :)**
 
