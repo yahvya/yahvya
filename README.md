@@ -9,14 +9,14 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahvya&show_icons=true&theme=radical&locale=en)
 
-*Actually in internship for [Pote&Match](https://www.linkedin.com/company/pote-match/)*
+*Actually working in freelance*
 
 ## Profile
 
 - Like many devs, i started by typing 'how to create a 2D game' to become a game developer
 - With time, I tested and learned many things that helped me diversify, touching software development, web, mobile, scrapping, and more ...
 
-[Take a visual tour of my projects](#not-available-now)
+[Take a visual tour of my projects](https://yahaya-dev.vercel.app)
 
 ## Concretely ?
 
@@ -25,16 +25,17 @@
 - C <3 with Cmake, Raylib, SDL, Arduino coding
 - C++ with Cmake, Raylib
 - PHP with Symfony , Laravel and PhpUnit
-- Javascript and Typescript with VueJs, ReactJs, AdonisJs, Puppeteer and JestJs
+- Javascript and Typescript with VueJs, ReactJs, AdonisJs, Puppeteer, NestJS and JestJs
 - Dart with flutter
 - Python with FastApi ...
-- Java / Kotlin with Sprint boot, JavaFx and JUnit
+- Java / Kotlin with Sprint boot, Compose multiplatform, Jetpack compose, JavaFx and JUnit
+...
 
 ### Environment
 
 - Docker
 - Postman / Testfully
-- Mysql, MongoDb
+- Mysql, MongoDb, PostgreSQL
 - GitHub 
 - Youtrack / GitHub projects
 
@@ -51,14 +52,14 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahvya&show_icons=true&theme=radical&locale=fr)
 
-*Actuellement en stage chez [Pote&Match](https://www.linkedin.com/company/pote-match/)*
+*Actuellement disponible en tant que développeur freelance*
 
 ## Profil
 
 - Comme beaucoup de développeurs, j'ai commencé en tapant 'comment créer un jeu 2D' pour devenir développeur de jeux.
 - Avec le temps, j'ai testé et appris beaucoup de choses qui m'ont permis de me diversifier, touchant au développement logiciel, au web, au mobile, au scraping, et bien plus encore.
 
-[Ayez un visuel de mes projets](#non-disponible-pour-le-moment)
+[Ayez un visuel de mes projets](https://yahaya-dev.vercel.app)
 
 ## Concrètement ?
 
@@ -67,11 +68,11 @@
 - C <3 avec Cmake, Raylib, SDL, programmation Arduino
 - C++ avec Cmake, Raylib
 - PHP avec Symfony, Laravel et PhpUnit
-- Javascript et Typescript avec VueJs, ReactJs, AdonisJs, Puppeteer et JestJs
+- Javascript et Typescript avec VueJs, ReactJs, AdonisJs, Puppeteer, NestJS et JestJs
 - Dart avec Flutter
 - Python avec FastApi ...
-- Java / Kotlin avec Spring Boot, JavaFx et JU
-- nit
+- Java / Kotlin avec Spring Boot, Compose multiplatform, Jetpack compose, JavaFx et JUnit
+...
 
 ### Pour les tests
 
@@ -83,7 +84,7 @@
 
 - Docker
 - Postman / Testfully
-- Mysql, MongoDb
+- Mysql, MongoDb, PostgreSQL
 - GitHub 
 - Youtrack / GitHub projets
 
