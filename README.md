@@ -24,11 +24,11 @@
 
 - C <3 with Cmake, Raylib, SDL, Arduino coding
 - C++ with Cmake, Raylib
-- PHP with Symfony , Laravel and PhpUnit
+- PHP with nothing <3, but also with Symfony , Laravel
 - Javascript and Typescript with VueJs, ReactJs, AdonisJs, Puppeteer, NestJS and JestJs
 - Dart with flutter
 - Python with FastApi ...
-- Java / Kotlin with Sprint boot, Compose multiplatform, Jetpack compose, JavaFx and JUnit
+- Java / Kotlin with Sprint boot, Compose multiplatform, Jetpack compose, JavaFx
 ...
 
 ### Environment
@@ -52,8 +52,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahvya&show_icons=true&theme=radical&locale=fr)
 
-*Actuellement disponible en tant que développeur freelance*
-
 ## Profil
 
 - Comme beaucoup de développeurs, j'ai commencé en tapant 'comment créer un jeu 2D' pour devenir développeur de jeux.
@@ -67,11 +65,11 @@
 
 - C <3 avec Cmake, Raylib, SDL, programmation Arduino
 - C++ avec Cmake, Raylib
-- PHP avec Symfony, Laravel et PhpUnit
+- PHP natif <3, mais aussi avec Symfony, Laravel
 - Javascript et Typescript avec VueJs, ReactJs, AdonisJs, Puppeteer, NestJS et JestJs
 - Dart avec Flutter
 - Python avec FastApi ...
-- Java / Kotlin avec Spring Boot, Compose multiplatform, Jetpack compose, JavaFx et JUnit
+- Java / Kotlin avec Spring Boot, Compose multiplatform, Jetpack compose, JavaFx
 ...
 
 ### Pour les tests
