@@ -9,8 +9,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahvya&show_icons=true&theme=radical&locale=en)
 
-*Actually working in freelance*
-
 ## Profile
 
 - Like many devs, i started by typing 'how to create a 2D game' to become a game developer
