@@ -27,12 +27,13 @@ style="border-radius: 50px;"
 </a>
 
 <a href="https://www.github.com/yahvya/">
-<img src="https://www.readmecodegen.com/api/social-icon?name=github&text=github&textColor=A5D6FF&theme=dark&size=30" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=github&text=github&textColor=A5D6FF&theme=github&size=30" />
 </a>
 
 <a href="https://www.yahaya-dev.vercel.app">
-<img src="https://www.readmecodegen.com/api/social-icon?name=firefoxbrowser&text=github&textColor=A5D6FF&theme=dark&size=30" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=firefoxbrowser&text=github&textColor=A5D6FF&theme=github&size=30" />
 </a>
 </p>
 
 ---
+
