@@ -12,12 +12,6 @@ title="Profile"
   alt="Yahaya, Ingénieur développeur Fullstack"
 />
 
-<p align="center">
-    <a href="https://github.com/yahvya">GitHub</a>
-    <a href="https://www.linkedin.com/in/yahaya-d/">Linkedin</a>
-    <a href="https://yahaya-dev.vercel.app">Mon site</a>
-</p>
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/yahaya-d/" target="_blank">
