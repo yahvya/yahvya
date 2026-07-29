@@ -47,5 +47,8 @@ Disons que je fais un peu de tout, mais en quoi je suis spécialisé ?
 - PHP
 - Javascript / Typescript
 - Java / Kotlin
+- Docker
+
+**&lt;note>** Je crois au fait qu'avec des bases solides, un ingénieur peut travailler sur n'importe quel projet avec n'importe quelle technologie. **&lt;note/>**
 
 **&lt;stack-technique/>**
