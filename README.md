@@ -29,10 +29,22 @@ title="Profile"
 
 ---
 
-**&lt;profile>**
+**&lt;profil>**
 
 > Comme beaucoup de développeurs, j'ai commencé en tapant *'comment créer un jeu 2D'* pour devenir développeur de jeux vidéos. Avec le temps, j'ai appris et testé pas mal de notions qui m'ont permis de me diversifier, touchant au développement logiciel, au web, au mobile, au scraping, et bien plus encore.
 
-**&lt;profile/>**
+**&lt;profil/>**
 
-**&lt;note>**Bien que la majeure partie de mes projets soient privés, un petit tour sur ce Git peut être intéressant :)**&lt;note/>**
+**&lt;note>** Bien que la majeure partie de mes projets soient privés, un petit tour sur ce Git peut être intéressant :) **&lt;note/>**
+
+---
+
+**&lt;stack technique/>**
+
+Disons que je fais un peu de tout, mais en quoi je suis spécialisé ?
+
+- C <3
+- PHP
+- Javascript / Typescript
+- Java / Kotlin
+
