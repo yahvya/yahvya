@@ -33,7 +33,6 @@ title="Profile"
 
 > Comme beaucoup de développeurs, j'ai commencé en tapant *'comment créer un jeu 2D'* pour devenir développeur de jeux vidéos. Avec le temps, j'ai appris et testé pas mal de notions qui m'ont permis de me diversifier, touchant au développement logiciel, au web, au mobile, au scraping, et bien plus encore.
 
-*Bien que la majeure partie de mes projets soient privés, un petit tour sur ce Git peut être intéressant :)*
-
 **&lt;profile/>**
 
+**&lt;note>**Bien que la majeure partie de mes projets soient privés, un petit tour sur ce Git peut être intéressant :)**&lt;note/>**
