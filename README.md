@@ -13,7 +13,7 @@ title="Profile"
 />
 
 <p align="center">
-    <font size="6"><a href="https://github.com/yahvya">GitHub</a>
+    <font size="60"><a href="https://github.com/yahvya">GitHub</a>
     <a href="https://www.linkedin.com/in/yahaya-d/">Linkedin</a>
     <a href="https://yahaya-dev.vercel.app">Mon site</a></font>
 </p>
