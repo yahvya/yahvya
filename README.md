@@ -37,6 +37,8 @@ title="Profile"
 
 **&lt;note>** Bien que la majeure partie de mes projets soient privés, un petit tour sur ce Git peut être intéressant :) **&lt;note/>**
 
+---
+
 **&lt;stack-technique>**
 
 Disons que je fais un peu de tout, mais en quoi je suis spécialisé ?
