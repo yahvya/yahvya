@@ -3,7 +3,7 @@
 src="https://raw.githubusercontent.com/yahvya/yahvya/refs/heads/main/assets/profile.png"
 width="130"
 height="130"
-title="Profile"
+title="Profil"
 />
 </p>
 
