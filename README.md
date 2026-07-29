@@ -3,7 +3,6 @@ src="https://raw.githubusercontent.com/yahvya/yahvya/refs/heads/main/assets/prof
 width="130"
 height="130"
 title="Profile"
-style="border-radius: 50px;"
 />
 
 <img
