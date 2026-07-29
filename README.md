@@ -13,9 +13,25 @@ title="Profile"
 />
 
 <p align="center">
-    <font size="60"><a href="https://github.com/yahvya">GitHub</a>
+    <a href="https://github.com/yahvya">GitHub</a>
     <a href="https://www.linkedin.com/in/yahaya-d/">Linkedin</a>
-    <a href="https://yahaya-dev.vercel.app">Mon site</a></font>
+    <a href="https://yahaya-dev.vercel.app">Mon site</a>
 </p>
 
+<div align="center">
+
+<a href="https://www.linkedin.com/in/yahaya-d/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+
+<a href="https://github.com/yahvya" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+</a>
+  
+<a href="https://yahaya-dev.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Mon%20site-2B3F8F?style=for-the-badge&logo=brave&logoColor=white" target="_blank" />
+</a>
+</div>
+
 ---
+
