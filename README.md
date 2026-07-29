@@ -1,9 +1,3 @@
-<style>
-*{
-    font-size: 20px;
-}
-</style>
-
 <p align="center">
 <img
 src="https://raw.githubusercontent.com/yahvya/yahvya/refs/heads/main/assets/profile.png"
@@ -19,9 +13,9 @@ title="Profile"
 />
 
 <p align="center">
-    <a href="https://github.com/yahvya">GitHub</a>
+    <font size="6"><a href="https://github.com/yahvya">GitHub</a>
     <a href="https://www.linkedin.com/in/yahaya-d/">Linkedin</a>
-    <a href="https://yahaya-dev.vercel.app">Mon site</a>
+    <a href="https://yahaya-dev.vercel.app">Mon site</a></font>
 </p>
 
 ---
