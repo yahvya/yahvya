@@ -1,3 +1,9 @@
+<style>
+*{
+    font-size: 20px;
+}
+</style>
+
 <p align="center">
 <img
 src="https://raw.githubusercontent.com/yahvya/yahvya/refs/heads/main/assets/profile.png"
