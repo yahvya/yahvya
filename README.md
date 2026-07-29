@@ -39,7 +39,7 @@ title="Profile"
 
 ---
 
-**&lt;stack technique/>**
+**&lt;stack-technique>**
 
 Disons que je fais un peu de tout, mais en quoi je suis spécialisé ?
 
@@ -48,3 +48,4 @@ Disons que je fais un peu de tout, mais en quoi je suis spécialisé ?
 - Javascript / Typescript
 - Java / Kotlin
 
+**&lt;stack-technique/>**
